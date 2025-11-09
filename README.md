@@ -1,2 +1,2 @@
-# trailing-algo-strat1
-automating how i typically trade/invest in stocks
+# Trailing-algo-strat1
+Automating how I typically trade/invest in stocks for my own portfolio. 
